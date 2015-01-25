@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:92459542389d0091ffbbfc24a49355f3$ -->
+<TextureAtlas imagePath="graphics/M24/Spout.png">
+    <SubTexture name="0001" x="0" y="0" width="128" height="128"/>
+</TextureAtlas>

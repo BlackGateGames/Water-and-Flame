@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:84e8384a3b88e73602e308708df4f332$ -->
+<TextureAtlas imagePath="graphics/flammable.png">
+    <SubTexture name="flammable1" x="0" y="0" width="128" height="128"/>
+    <SubTexture name="flammable2" x="128" y="0" width="128" height="128"/>
+    <SubTexture name="flammable3" x="0" y="128" width="128" height="128"/>
+    <SubTexture name="flammable4" x="128" y="128" width="128" height="128"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:948e371146c18709ef0d68eef4c71e73$ -->
+<TextureAtlas imagePath="graphics/Panzer/Flame.png">
+    <SubTexture name="0001" x="0" y="0" width="128" height="128"/>
+</TextureAtlas>
