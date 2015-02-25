@@ -7,7 +7,7 @@
         <target device="android">true</target>
         <target device="blackberry">false</target>
     </deployment-targets>
-    <sdk-version>3.4.1.GA</sdk-version>
+    <sdk-version>3.5.0.GA</sdk-version>
     <id>co.ggj15.torch</id>
     <name>Water and Flame</name>
     <version>1.0</version>
@@ -45,7 +45,7 @@
         <theme>default</theme>
     </mobileweb>
     <modules>
+        <module platform="iphone" version="2.1.2">co.lanica.platino</module>
         <module platform="android">co.lanica.platino</module>
-        <module platform="iphone">co.lanica.platino</module>
     </modules>
 </ti:app>
